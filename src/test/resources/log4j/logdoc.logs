@@ -1,0 +1,1240 @@
+2019-10-24 19:30:58 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:30:58 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:31:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:31:11 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 19:31:21 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:31:22 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 19:31:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:31:22 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 19:31:23 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:31:40 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:32:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:32:08 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:32:23 INFO  LogReporter:21 - Actual Value :false not match with the Expected value :true
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:32:33 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 19:32:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:32:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:32:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:32:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:32:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:37:18 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:37:19 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:37:24 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:37:33 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 19:37:43 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:37:43 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 19:37:43 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:37:43 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 19:37:44 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:38:02 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:38:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:38:30 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:38:45 INFO  LogReporter:21 - Actual Value :false not match with the Expected value :true
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:38:56 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 19:39:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:39:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:39:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:39:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:39:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:41:18 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:41:19 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:41:24 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:41:31 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 19:41:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:41:41 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 19:41:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:41:42 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 19:41:42 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:42:00 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:42:18 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:42:28 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:42:32 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:42:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:42:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:42:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:42:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:42:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:52:57 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:52:58 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:53:03 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:53:06 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 19:53:07 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 19:53:08 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 19:53:08 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:53:08 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 19:53:12 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 19:53:15 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:21 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:27 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:53:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:53:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:53:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-24 19:53:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-24 19:53:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-24 19:55:07 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:55:09 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:55:13 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:55:19 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 19:55:19 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 19:55:19 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 19:55:21 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 19:55:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:55:22 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 19:55:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:55:22 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 19:55:23 DEBUG RequestAddCookies:123 - CookieSpec selected: default
+2019-10-24 19:55:23 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2019-10-24 19:55:23 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-10-24 19:55:23 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 19:55:23 DEBUG MainClientExec:235 - Opening connection {s}->https://selenium-release.storage.googleapis.com:443
+2019-10-24 19:55:23 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to selenium-release.storage.googleapis.com/216.58.200.176:443
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:337 - Connecting socket to selenium-release.storage.googleapis.com/216.58.200.176:443 with timeout 0
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:395 - Starting handshake
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:425 - Secure session established
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2019-10-24 19:55:23 DEBUG SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2019-10-24 19:55:23 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 55.55.53.104:51144<->216.58.200.176:443
+2019-10-24 19:55:23 DEBUG MainClientExec:256 - Executing request OPTIONS / HTTP/1.1
+2019-10-24 19:55:23 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-10-24 19:55:23 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-10-24 19:55:23 DEBUG headers:133 - http-outgoing-7 >> OPTIONS / HTTP/1.1
+2019-10-24 19:55:23 DEBUG headers:136 - http-outgoing-7 >> Host: selenium-release.storage.googleapis.com
+2019-10-24 19:55:23 DEBUG headers:136 - http-outgoing-7 >> Connection: Keep-Alive
+2019-10-24 19:55:23 DEBUG headers:136 - http-outgoing-7 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)
+2019-10-24 19:55:23 DEBUG headers:136 - http-outgoing-7 >> Accept-Encoding: gzip,deflate
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "OPTIONS / HTTP/1.1[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "Host: selenium-release.storage.googleapis.com[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "Connection: Keep-Alive[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 >> "[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "HTTP/1.1 200 OK[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "X-GUploader-UploadID: AEnB2UrdaOwIuZ-TnL69agoxRIgfUALCGLuJEZk00-FhtcKgbD_dXQ__wWPfZ-JNPN_OnzqGmLnDH7B29l1ktzwqzkbyeBPzQw[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Date: Thu, 24 Oct 2019 14:25:23 GMT[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Expires: Thu, 24 Oct 2019 14:25:23 GMT[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Cache-Control: private, max-age=0[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Content-Length: 0[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Server: UploadServer[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000[\r][\n]"
+2019-10-24 19:55:23 DEBUG wire:73 - http-outgoing-7 << "[\r][\n]"
+2019-10-24 19:55:23 DEBUG headers:122 - http-outgoing-7 << HTTP/1.1 200 OK
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << X-GUploader-UploadID: AEnB2UrdaOwIuZ-TnL69agoxRIgfUALCGLuJEZk00-FhtcKgbD_dXQ__wWPfZ-JNPN_OnzqGmLnDH7B29l1ktzwqzkbyeBPzQw
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Date: Thu, 24 Oct 2019 14:25:23 GMT
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Expires: Thu, 24 Oct 2019 14:25:23 GMT
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Cache-Control: private, max-age=0
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Content-Length: 0
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Server: UploadServer
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Content-Type: text/html; charset=UTF-8
+2019-10-24 19:55:23 DEBUG headers:125 - http-outgoing-7 << Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+2019-10-24 19:55:23 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-10-24 19:55:23 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443] can be kept alive indefinitely
+2019-10-24 19:55:23 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-7: set socket timeout to 0
+2019-10-24 19:55:23 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 19:55:23 DEBUG WebDriverManager:422 - Latest version of IEDriverServer is 3.150 (recently resolved)
+2019-10-24 19:55:23 DEBUG WebDriverManager:435 - Driver for IEDriverServer (latest version) found in cache C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 19:55:23 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 19:55:23 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:55:34 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:55:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:55:44 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:55:51 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 19:57:41 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:57:42 INFO  LogReporter:21 - url is loaded
+2019-10-24 19:57:47 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 19:57:52 DEBUG RequestAddCookies:123 - CookieSpec selected: default
+2019-10-24 19:57:52 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2019-10-24 19:57:52 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-10-24 19:57:52 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 19:57:52 DEBUG MainClientExec:235 - Opening connection {s}->https://selenium-release.storage.googleapis.com:443
+2019-10-24 19:57:52 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to selenium-release.storage.googleapis.com/172.217.163.144:443
+2019-10-24 19:57:52 DEBUG SSLConnectionSocketFactory:337 - Connecting socket to selenium-release.storage.googleapis.com/172.217.163.144:443 with timeout 0
+2019-10-24 19:57:52 DEBUG SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-10-24 19:57:52 DEBUG SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-10-24 19:57:52 DEBUG SSLConnectionSocketFactory:395 - Starting handshake
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:425 - Secure session established
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2019-10-24 19:57:53 DEBUG SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2019-10-24 19:57:53 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 55.55.53.104:51380<->172.217.163.144:443
+2019-10-24 19:57:53 DEBUG MainClientExec:256 - Executing request OPTIONS / HTTP/1.1
+2019-10-24 19:57:53 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-10-24 19:57:53 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-10-24 19:57:53 DEBUG headers:133 - http-outgoing-7 >> OPTIONS / HTTP/1.1
+2019-10-24 19:57:53 DEBUG headers:136 - http-outgoing-7 >> Host: selenium-release.storage.googleapis.com
+2019-10-24 19:57:53 DEBUG headers:136 - http-outgoing-7 >> Connection: Keep-Alive
+2019-10-24 19:57:53 DEBUG headers:136 - http-outgoing-7 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)
+2019-10-24 19:57:53 DEBUG headers:136 - http-outgoing-7 >> Accept-Encoding: gzip,deflate
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "OPTIONS / HTTP/1.1[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "Host: selenium-release.storage.googleapis.com[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "Connection: Keep-Alive[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 >> "[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "HTTP/1.1 200 OK[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "X-GUploader-UploadID: AEnB2UrjlyqfogZpAa-f7nWyI8u9RmJL0YyW04lUTtSsM3p8sV1ReAms5OqhzJ950jlbiKIeZPTNLn7rzdTrvSkWl459NiXcLw[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Date: Thu, 24 Oct 2019 14:27:53 GMT[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Expires: Thu, 24 Oct 2019 14:27:53 GMT[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Cache-Control: private, max-age=0[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Content-Length: 0[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Server: UploadServer[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000[\r][\n]"
+2019-10-24 19:57:53 DEBUG wire:73 - http-outgoing-7 << "[\r][\n]"
+2019-10-24 19:57:53 DEBUG headers:122 - http-outgoing-7 << HTTP/1.1 200 OK
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << X-GUploader-UploadID: AEnB2UrjlyqfogZpAa-f7nWyI8u9RmJL0YyW04lUTtSsM3p8sV1ReAms5OqhzJ950jlbiKIeZPTNLn7rzdTrvSkWl459NiXcLw
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Date: Thu, 24 Oct 2019 14:27:53 GMT
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Expires: Thu, 24 Oct 2019 14:27:53 GMT
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Cache-Control: private, max-age=0
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Content-Length: 0
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Server: UploadServer
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Content-Type: text/html; charset=UTF-8
+2019-10-24 19:57:53 DEBUG headers:125 - http-outgoing-7 << Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+2019-10-24 19:57:53 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-10-24 19:57:53 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443] can be kept alive indefinitely
+2019-10-24 19:57:53 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-7: set socket timeout to 0
+2019-10-24 19:57:53 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 7][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 19:57:53 DEBUG WebDriverManager:422 - Latest version of IEDriverServer is 3.150 (recently resolved)
+2019-10-24 19:57:53 DEBUG WebDriverManager:435 - Driver for IEDriverServer (latest version) found in cache C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 19:57:53 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 19:57:54 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 19:57:54 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 19:57:54 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 19:57:56 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:00:32 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:00:33 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:00:33 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:00:35 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:00:37 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:00:38 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:00:38 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2019-10-24 20:00:38 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2019-10-24 20:00:40 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:00:40 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:00:40 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:00:41 DEBUG RequestAddCookies:123 - CookieSpec selected: default
+2019-10-24 20:00:41 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2019-10-24 20:00:41 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-10-24 20:00:41 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 5][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 20:00:41 DEBUG MainClientExec:235 - Opening connection {s}->https://selenium-release.storage.googleapis.com:443
+2019-10-24 20:00:41 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to selenium-release.storage.googleapis.com/172.217.163.144:443
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:337 - Connecting socket to selenium-release.storage.googleapis.com/172.217.163.144:443 with timeout 0
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:395 - Starting handshake
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:425 - Secure session established
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2019-10-24 20:00:41 DEBUG SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2019-10-24 20:00:41 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 55.55.53.104:51615<->172.217.163.144:443
+2019-10-24 20:00:41 DEBUG MainClientExec:256 - Executing request OPTIONS / HTTP/1.1
+2019-10-24 20:00:41 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-10-24 20:00:41 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-10-24 20:00:41 DEBUG headers:133 - http-outgoing-5 >> OPTIONS / HTTP/1.1
+2019-10-24 20:00:41 DEBUG headers:136 - http-outgoing-5 >> Host: selenium-release.storage.googleapis.com
+2019-10-24 20:00:41 DEBUG headers:136 - http-outgoing-5 >> Connection: Keep-Alive
+2019-10-24 20:00:41 DEBUG headers:136 - http-outgoing-5 >> User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)
+2019-10-24 20:00:41 DEBUG headers:136 - http-outgoing-5 >> Accept-Encoding: gzip,deflate
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "OPTIONS / HTTP/1.1[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "Host: selenium-release.storage.googleapis.com[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "Connection: Keep-Alive[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_221)[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 >> "[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "HTTP/1.1 200 OK[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "X-GUploader-UploadID: AEnB2UpSMMBp5hdaXeDuNtyOX4DMbCQH7RS0kxLGWJ6NI6H8o2uwVuRqhZG3jBULpaPiRW1TOTmlqYrxSeL1crK01BunRxsAkA[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Date: Thu, 24 Oct 2019 14:30:41 GMT[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Expires: Thu, 24 Oct 2019 14:30:41 GMT[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Cache-Control: private, max-age=0[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Content-Length: 0[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Server: UploadServer[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000[\r][\n]"
+2019-10-24 20:00:41 DEBUG wire:73 - http-outgoing-5 << "[\r][\n]"
+2019-10-24 20:00:41 DEBUG headers:122 - http-outgoing-5 << HTTP/1.1 200 OK
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << X-GUploader-UploadID: AEnB2UpSMMBp5hdaXeDuNtyOX4DMbCQH7RS0kxLGWJ6NI6H8o2uwVuRqhZG3jBULpaPiRW1TOTmlqYrxSeL1crK01BunRxsAkA
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Date: Thu, 24 Oct 2019 14:30:41 GMT
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Expires: Thu, 24 Oct 2019 14:30:41 GMT
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Cache-Control: private, max-age=0
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Content-Length: 0
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Server: UploadServer
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Content-Type: text/html; charset=UTF-8
+2019-10-24 20:00:41 DEBUG headers:125 - http-outgoing-5 << Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+2019-10-24 20:00:41 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-10-24 20:00:41 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 5][route: {s}->https://selenium-release.storage.googleapis.com:443] can be kept alive indefinitely
+2019-10-24 20:00:41 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-5: set socket timeout to 0
+2019-10-24 20:00:41 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 5][route: {s}->https://selenium-release.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-10-24 20:00:41 DEBUG WebDriverManager:422 - Latest version of IEDriverServer is 3.150 (recently resolved)
+2019-10-24 20:00:41 DEBUG WebDriverManager:435 - Driver for IEDriverServer (latest version) found in cache C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:00:41 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:00:46 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:00:46 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:00:46 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:02:23 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:02:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:02:24 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:02:25 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:02:25 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:02:32 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:02:33 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:02:34 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:02:34 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:02:34 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:02:39 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:02:39 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:02:39 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:02:42 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:02:42 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:02:43 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:02:43 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 20:02:43 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:22:34 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:22:34 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:22:38 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:22:45 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:22:46 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:22:47 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:22:48 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:22:48 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:22:48 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:22:48 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:22:49 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:22:49 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:22:51 INFO  WebDriverManager:817 - Exporting webdriver.gecko.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-10-24 20:22:55 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:22:55 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:23:00 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:23:03 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:23:03 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:23:03 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:23:12 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:23:19 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:23:21 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:23:21 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:27:10 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:27:11 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:27:16 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:27:21 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:27:21 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:27:23 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:27:23 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:27:23 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:27:27 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:27:28 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:28 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:27:28 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:27:28 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:27:28 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:27:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:29 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:27:30 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:31 INFO  WebDriverManager:817 - Exporting webdriver.gecko.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-10-24 20:27:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:49 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:27:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:27:57 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:29:34 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:29:36 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:29:36 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:29:36 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:29:38 INFO  WebDriverManager:817 - Exporting webdriver.gecko.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-10-24 20:29:39 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:29:41 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:29:41 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:29:41 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:29:45 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:29:45 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:29:45 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:29:51 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:29:58 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:33:08 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:33:10 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:33:14 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:33:18 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:33:20 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:33:20 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:33:20 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:33:20 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:33:20 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:33:21 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:33:21 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:33:21 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:33:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:33:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:33:36 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:33:42 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:34:52 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:34:55 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:34:57 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:34:57 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:34:58 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:35:01 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:35:05 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:35:05 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:35:05 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:35:05 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:35:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:06 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:35:07 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:35:07 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:35:07 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:35:07 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:35:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:08 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:35:08 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:35:08 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:35:08 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:09 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:35:09 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 20:35:09 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:09 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 20:35:13 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 20:35:14 INFO  WebDriverManager:817 - Exporting webdriver.ie.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\IEDriverServer\x64\3.150\IEDriverServer.exe
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 20:35:14 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 20:35:20 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:28 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:35:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:39:12 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:39:13 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:39:13 INFO  WebDriverManager:686 - Latest version of IEDriverServer is 3.150
+2019-10-24 20:39:13 INFO  Downloader:126 - Downloading https://selenium-release.storage.googleapis.com/3.150/IEDriverServer_Win32_3.150.0.zip
+2019-10-24 20:39:13 INFO  WebDriverManager:817 - Exporting webdriver.chrome.driver as C:\Users\ajith.periyasamy\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+2019-10-24 20:42:21 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:42:21 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:42:26 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:42:29 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:42:31 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:42:31 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:42:33 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:42:33 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:42:33 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:42:35 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:42:35 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:42:35 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:43:51 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:43:51 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:43:51 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:43:51 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:43:55 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:43:56 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:44:03 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:44:03 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:44:03 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:44:04 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:44:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:44:04 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:44:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:44:05 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:44:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:44:13 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:44:20 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:44:26 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:45:52 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:45:54 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:45:55 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:45:57 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:45:59 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:46:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:46:06 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:46:06 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:46:06 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:47:18 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:47:20 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:47:23 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:47:26 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:47:26 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:47:27 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:47:27 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:47:28 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:47:28 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:47:28 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:47:28 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:47:28 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:47:35 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:47:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:47:47 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:37 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:48:38 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:48:41 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:48:43 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:48:43 INFO  LogReporter:21 - url is loaded
+2019-10-24 20:48:44 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 20:48:51 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:48:51 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:48:51 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:48:52 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 20:48:52 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 20:48:52 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 20:48:52 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 20:48:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:54 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:48:54 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 20:48:55 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:48:55 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:11 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:12 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:18 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 20:49:19 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 21:09:06 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:09:06 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:09:06 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:09:06 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:09:09 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:09:11 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:09:12 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:09:12 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:09:12 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 21:09:17 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:09:17 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:09:17 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 21:11:13 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:11:15 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:11:16 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:11:17 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:11:17 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:11:21 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:11:22 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:11:22 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:11:22 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 21:11:23 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 21:11:23 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 21:11:23 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 21:11:24 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 21:11:24 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 21:11:27 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:11:27 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:11:27 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 21:14:11 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:14:12 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:14:16 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:14:20 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:14:20 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:14:20 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 21:19:17 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:19:18 INFO  LogReporter:21 - url is loaded
+2019-10-24 21:19:22 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 21:19:26 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 21:19:26 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 21:19:26 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:39:37 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:39:37 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:39:43 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:39:47 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 22:39:47 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 22:39:47 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 22:39:48 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 22:39:48 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 22:39:48 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 22:39:49 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 22:39:49 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 22:39:49 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:39:55 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 22:40:00 INFO  LogReporter:21 - Actual Value :false not match with the Expected value :true
+2019-10-24 22:40:06 INFO  LogReporter:21 - Actual Value :false not match with the Expected value :true
+2019-10-24 22:53:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:53:29 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:53:36 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 22:53:36 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 22:53:36 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:54:52 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:54:57 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:55:04 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 22:55:04 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 22:55:04 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:55:05 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:55:43 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 22:56:32 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:56:38 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:56:43 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 22:56:43 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 22:56:43 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:56:44 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:56:49 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 22:58:38 INFO  LogReporter:21 - url is loaded
+2019-10-24 22:58:43 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:58:50 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 22:58:50 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 22:58:50 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 22:58:51 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 22:58:58 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:00:37 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:00:42 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:00:45 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:00:45 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:00:45 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:00:46 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:00:52 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:01:39 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:01:50 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:02:00 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:02:11 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:02:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:05:46 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:05:47 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:05:52 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:05:55 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:05:55 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:05:56 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:05:57 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:05:57 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:06:02 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:06:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:06:14 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:06:23 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:07:30 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:07:31 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:07:36 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:07:40 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:07:40 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:07:40 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:07:40 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:07:41 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:07:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:07:42 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:07:42 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:07:42 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:07:43 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:07:48 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:07:49 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:07:59 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:08:08 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:10:23 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:10:25 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:10:28 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:10:33 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:10:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:10:35 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:10:35 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:10:36 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:10:41 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:10:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:10:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:11:03 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:14:44 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:14:44 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:14:50 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:14:56 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:14:57 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:14:57 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:14:57 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:14:58 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:15:03 INFO  LogReporter:21 - Actual Value :iPad not match with the Expected value :iPhone 5
+2019-10-24 23:15:03 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:15:03 INFO  LogReporter:21 - Actual Value :$599.99 not match with the Expected value :$999.99
+2019-10-24 23:15:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:15:08 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:15:16 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:13 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:16:14 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:16:19 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:16:26 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:16:26 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:16:26 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:16:29 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:16:29 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:16:29 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:16:31 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:16:37 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 23:16:38 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:16:38 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:16:40 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:16:40 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:41 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:16:42 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:16:43 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:16:47 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:16:49 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:16:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:17:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:41:38 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:41:39 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:41:46 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:41:57 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:41:58 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:42:02 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:42:02 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:42:02 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:42:04 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:42:05 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:42:06 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:42:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:42:09 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:42:10 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:42:11 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:42:15 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:42:18 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:42:18 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:42:18 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:42:19 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:42:22 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:42:30 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:42:32 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:42:37 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:42:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:07 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:45:08 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:45:13 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:45:24 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:45:24 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:45:24 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:45:25 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:45:29 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:45:29 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:45:32 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:45:33 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:33 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:45:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:35 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:45:36 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:37 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:45:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:45:46 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:45:49 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:45:57 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:47:50 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:47:50 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:47:51 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:47:52 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:47:53 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:47:58 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:48:01 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:48:01 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:48:01 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:48:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:48:10 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:48:10 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:11 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:48:11 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:11 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:48:12 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:48:13 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:48:15 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:48:15 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:15 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:48:16 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:16 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:48:18 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:19 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:48:20 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:48:24 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:24 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:30 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:32 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:48:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:20 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:50:22 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:50:22 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:50:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:50:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:50:31 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:50:33 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:50:33 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:50:33 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:50:35 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:50:38 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:50:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:39 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:50:39 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:39 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:50:40 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:50:40 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:41 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:50:41 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:42 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:50:42 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:50:44 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:50:46 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:50:49 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:50:54 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:50:55 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:50:57 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:51:03 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:51:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:51:11 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:53:25 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:53:28 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:53:30 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:53:30 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:53:32 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:53:38 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:53:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:39 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:53:39 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 23:53:39 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:53:41 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:53:41 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:53:41 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:53:41 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:45 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:53:45 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:53:46 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:46 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-24 23:53:47 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:53:49 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:53:53 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:53:58 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:54:06 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:57:24 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:57:25 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:57:27 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:57:27 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:57:29 INFO  LogReporter:21 - url is loaded
+2019-10-24 23:57:35 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:57:36 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:57:36 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:57:36 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:57:38 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:57:42 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:57:42 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:57:43 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:57:44 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-24 23:57:44 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:57:47 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-24 23:57:47 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-24 23:57:47 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-24 23:57:48 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:57:48 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-24 23:57:50 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-24 23:57:50 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:57:50 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-24 23:57:51 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:57:51 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-24 23:57:52 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-24 23:57:53 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-24 23:57:59 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:58:07 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-24 23:58:15 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:00 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:00:04 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:00:06 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:00:12 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:00:17 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:00:17 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:00:17 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:00:17 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:00:18 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:00:20 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:00:26 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:00:26 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:27 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:00:27 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:27 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:00:27 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:00:27 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:00:28 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-25 00:00:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:29 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:00:30 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-25 00:00:33 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:00:36 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-25 00:00:38 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:00:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:38 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:00:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:39 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:00:39 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:45 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:46 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:50 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:00:58 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:07 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:06:07 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:06:11 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:06:13 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:06:21 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:06:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:23 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:06:23 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:06:23 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:06:24 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:24 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:06:24 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:06:24 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:06:25 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:06:26 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:06:26 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:28 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:06:28 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:29 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:06:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:29 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-25 00:06:30 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:32 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:06:32 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:06:32 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:06:34 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:06:35 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:06:37 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:06:42 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:06:43 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:46 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:51 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:52 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:06:57 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:17 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:09:18 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:09:19 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:09:25 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:09:25 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:09:25 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:09:25 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:09:27 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:09:27 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:28 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:09:28 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:29 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:09:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:34 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:38 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:09:44 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:11:54 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:11:57 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:11:57 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:12:02 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:12:02 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:12:02 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:12:03 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:12:04 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:12:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:12:05 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:12:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:12:05 INFO  LogReporter:21 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated successfully
+2019-10-25 00:12:06 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:12:09 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:12:11 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:12:17 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:12:22 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:13:50 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:13:52 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:13:52 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:13:57 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :true not match with the Expected value :false
+2019-10-25 00:13:58 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:13:58 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:14:04 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:16:52 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:16:52 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:16:52 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:17:01 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:17:01 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:17:01 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:17:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:17:02 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:17:02 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:17:03 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:17:03 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:17:04 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:17:04 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:17:08 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:17:09 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:17:13 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:17:19 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:19:33 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:19:34 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:19:40 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:19:46 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:19:48 INFO  LogReporter:21 - url is loaded
+2019-10-25 00:19:49 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:19:58 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:19:59 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:19:59 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:19:59 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:19:59 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:20:00 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:20:00 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:01 INFO  LogReporter:21 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated successfully
+2019-10-25 00:20:01 INFO  LogReporter:21 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated successfully
+2019-10-25 00:20:01 INFO  LogReporter:21 - Actual Value :$54.99 and Expected :$54.99 is validated successfully
+2019-10-25 00:20:01 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:20:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:20:02 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:02 INFO  LogReporter:21 - Document title is validated :KonaKart
+2019-10-25 00:20:05 INFO  LogReporter:21 - Actual Value :Product Description and Expected :Product Description is validated successfully
+2019-10-25 00:20:05 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:06 INFO  LogReporter:21 - Actual Value :Specifications and Expected :Specifications is validated successfully
+2019-10-25 00:20:06 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:07 INFO  LogReporter:21 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated successfully
+2019-10-25 00:20:09 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:10 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :iPhone 5 and Expected :iPhone 5 is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :$999.99 and Expected :$999.99 is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :iPhone 4S and Expected :iPhone 4S is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :$899.99 and Expected :$899.99 is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :iPhone 4S not match with the Expected value :iPhone 5
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :$899.99 not match with the Expected value :$999.99
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :iPhone 5 not match with the Expected value :iPhone 4S
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :(0 Reviews) and Expected :(0 Reviews) is validated successfully
+2019-10-25 00:20:11 INFO  LogReporter:21 - Actual Value :$999.99 not match with the Expected value :$899.99
+2019-10-25 00:20:15 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:19 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:25 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:20:29 INFO  LogReporter:21 - Actual Value :true and Expected :true is validated successfully
+2019-10-25 00:21:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 00:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 00:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 00:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 00:21:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

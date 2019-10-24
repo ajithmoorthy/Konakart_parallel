@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="30" name="Failed suite [mysuite]" parallel="tests">
+  <test thread-count="30" name="Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestHeroImage(failed)" parallel="tests">
+    <parameter name="browser" value="MY,FIREFOX"/>
+    <classes>
+      <class name="com.atmecs.automate_konakart.testscripts.TestHeroImage">
+        <methods>
+          <include name="baseSetup"/>
+          <include name="startReport"/>
+          <include name="tearDown"/>
+          <include name="validateHeroImage" invocation-numbers="0"/>
+          <include name="endReport"/>
+          <include name="endDriver"/>
+        </methods>
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestHeroImage -->
+    </classes>
+  </test> <!-- Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestHeroImage(failed) -->
+  <test thread-count="30" name="Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestHeroImage(failed)" parallel="tests">
+    <parameter name="browser" value="MY,CHROME"/>
+    <classes>
+      <class name="com.atmecs.automate_konakart.testscripts.TestHeroImage">
+        <methods>
+          <include name="baseSetup"/>
+          <include name="startReport"/>
+          <include name="tearDown"/>
+          <include name="validateHeroImage" invocation-numbers="1"/>
+          <include name="endReport"/>
+          <include name="endDriver"/>
+        </methods>
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestHeroImage -->
+    </classes>
+  </test> <!-- Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestHeroImage(failed) -->
+</suite> <!-- Failed suite [mysuite] -->

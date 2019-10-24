@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="2" ignored="0" total="8" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="130724" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:51:24Z">
+    <groups>
+    </groups>
+    <test name="Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestKonakartHome" duration-ms="63844" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:50:17Z">
+      <class name="com.atmecs.automate_konakart.testscripts.TestKonakartHome">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="baseSetup" is-config="true" duration-ms="19880" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:49:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="validateKonakart" duration-ms="27385" started-at="2019-10-24T18:49:34Z" data-provider="welcomedata" finished-at="2019-10-24T18:50:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@689ef0f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="tearDown" is-config="true" duration-ms="1221" started-at="2019-10-24T18:50:01Z" finished-at="2019-10-24T18:50:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=TestKonakartHome.validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="validateKonakart" duration-ms="8667" started-at="2019-10-24T18:50:02Z" data-provider="welcomedata" finished-at="2019-10-24T18:50:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2334146c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="tearDown" is-config="true" duration-ms="890" started-at="2019-10-24T18:50:11Z" finished-at="2019-10-24T18:50:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=TestKonakartHome.validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endDriver()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@427b3b22]" name="endDriver" is-config="true" duration-ms="5537" started-at="2019-10-24T18:50:12Z" finished-at="2019-10-24T18:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestKonakartHome -->
+    </test> <!-- Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestKonakartHome -->
+    <test name="Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestHeroImage" duration-ms="73468" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:50:27Z">
+      <class name="com.atmecs.automate_konakart.testscripts.TestHeroImage">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="baseSetup" is-config="true" duration-ms="32809" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:49:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="FAIL" signature="validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="validateHeroImage" duration-ms="40541" started-at="2019-10-24T18:49:46Z" data-provider="productdata" finished-at="2019-10-24T18:50:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@37c07f40]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Failed to decode response from marionette
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c
+*** Element info: {Using=css selector, value=div#product-reviews-area >div}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c
+*** Element info: {Using=css selector, value=div#product-reviews-area >div}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementsByCssSelector(RemoteWebDriver.java:424)
+at org.openqa.selenium.By$ByCssSelector.findElements(By.java:441)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+at com.atmecs.automate_konakart.helper.ValidaterHelper.findListlength(ValidaterHelper.java:335)
+at com.atmecs.automate_konakart.helper.ValidaterHelper.ratingValidation(ValidaterHelper.java:297)
+at com.atmecs.automate_konakart.helper.ValidaterHelper.cutomerReviewValidation(ValidaterHelper.java:365)
+at com.atmecs.automate_konakart.pages.HeroPage.validateHeropPage(HeroPage.java:49)
+at com.atmecs.automate_konakart.testscripts.TestHeroImage.validateHeroImage(TestHeroImage.java:47)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="FAIL" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="tearDown" is-config="true" duration-ms="39" started-at="2019-10-24T18:50:27Z" finished-at="2019-10-24T18:50:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHeroImage status=FAILURE method=TestHeroImage.validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+at com.atmecs.automate_konakart.extentreport.Extent.getScreenshot(Extent.java:48)
+at com.atmecs.automate_konakart.extentreport.Extent.tearDown(Extent.java:66)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="validateHeroImage" duration-ms="0" started-at="2019-10-24T18:50:27Z" data-provider="productdata" finished-at="2019-10-24T18:50:27Z">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7deb6465-d5e2-4eab-8284-9765d6edbe5c
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+at com.atmecs.automate_konakart.extentreport.Extent.getScreenshot(Extent.java:48)
+at com.atmecs.automate_konakart.extentreport.Extent.tearDown(Extent.java:66)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-24T18:50:27Z" finished-at="2019-10-24T18:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="endDriver()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@7ca26225]" name="endDriver" is-config="true" duration-ms="0" started-at="2019-10-24T18:50:27Z" finished-at="2019-10-24T18:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestHeroImage -->
+    </test> <!-- Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestHeroImage -->
+    <test name="Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestKonakartHome" duration-ms="74148" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:50:28Z">
+      <class name="com.atmecs.automate_konakart.testscripts.TestKonakartHome">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="baseSetup" is-config="true" duration-ms="34457" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:49:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="validateKonakart" duration-ms="10926" started-at="2019-10-24T18:49:48Z" data-provider="welcomedata" finished-at="2019-10-24T18:49:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1e744ca5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="tearDown" is-config="true" duration-ms="2894" started-at="2019-10-24T18:49:59Z" finished-at="2019-10-24T18:50:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=TestKonakartHome.validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="validateKonakart" duration-ms="8919" started-at="2019-10-24T18:50:02Z" data-provider="welcomedata" finished-at="2019-10-24T18:50:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@74ad5fb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="tearDown" is-config="true" duration-ms="256" started-at="2019-10-24T18:50:11Z" finished-at="2019-10-24T18:50:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=TestKonakartHome.validateKonakart([Ljava.lang.String;)[pri:1, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endDriver()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestKonakartHome@7ce9f05b]" name="endDriver" is-config="true" duration-ms="16623" started-at="2019-10-24T18:50:11Z" finished-at="2019-10-24T18:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestKonakartHome -->
+    </test> <!-- Test validate FIREFOXcom.atmecs.automate_konakart.testscripts.TestKonakartHome -->
+    <test name="Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestHeroImage" duration-ms="130724" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:51:24Z">
+      <class name="com.atmecs.automate_konakart.testscripts.TestHeroImage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="startReport" is-config="true" duration-ms="188" started-at="2019-10-24T18:49:13Z" finished-at="2019-10-24T18:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="baseSetup" is-config="true" duration-ms="20684" started-at="2019-10-24T18:49:14Z" finished-at="2019-10-24T18:49:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="validateHeroImage" duration-ms="54328" started-at="2019-10-24T18:49:34Z" data-provider="productdata" finished-at="2019-10-24T18:50:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1aab8639]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="tearDown" is-config="true" duration-ms="420" started-at="2019-10-24T18:50:29Z" finished-at="2019-10-24T18:50:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHeroImage status=SUCCESS method=TestHeroImage.validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="validateHeroImage" duration-ms="50169" started-at="2019-10-24T18:50:29Z" data-provider="productdata" finished-at="2019-10-24T18:51:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@785127f9]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.cssSelector: #slide-1>img (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: #slide-1>img (tried for 20 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.atmecs.automate_konakart.pages.HeroPage.validateHeropPage(HeroPage.java:35)
+at com.atmecs.automate_konakart.testscripts.TestHeroImage.validateHeroImage(TestHeroImage.java:47)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#slide-1>img"}
+  (Session info: chrome=78.0.3904.70)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '192.168.43.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AJITH~1.PER\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:61795}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8201fdaf9f6a9c930088f0f41d2beb17
+*** Element info: {Using=css selector, value=#slide-1>img}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
+at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 22 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="tearDown" is-config="true" duration-ms="676" started-at="2019-10-24T18:51:19Z" finished-at="2019-10-24T18:51:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHeroImage status=FAILURE method=TestHeroImage.validateHeroImage([Ljava.lang.String;)[pri:2, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endDriver()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="endDriver" is-config="true" duration-ms="4371" started-at="2019-10-24T18:51:20Z" finished-at="2019-10-24T18:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.automate_konakart.testscripts.TestHeroImage@24f41e2c]" name="endReport" is-config="true" duration-ms="1613" started-at="2019-10-24T18:51:24Z" finished-at="2019-10-24T18:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.automate_konakart.testscripts.TestHeroImage -->
+    </test> <!-- Test validate CHROMEcom.atmecs.automate_konakart.testscripts.TestHeroImage -->
+  </suite> <!-- mysuite -->
+</testng-results>
