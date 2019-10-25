@@ -81,11 +81,11 @@ public class Extent {
 	  @AfterSuite 
 	  public void endReport() 
 	  { 
-		 driver.quit();
+		 //driver.quit();
 		 extentObject.flush();
 	  }
 	 @AfterClass
 	 public void endDriver() {
-		 driver.close();
+		 driver.quit();
 	 }
 }
